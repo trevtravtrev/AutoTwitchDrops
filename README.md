@@ -73,7 +73,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#PoketDev">PoketDev (Unlimited Software Engineering Subscription)</a></li>
+    <li><a href="#Poket-Dev">Poket Dev (Unlimited Software Engineering Subscription)</a></li>
   </ol>
 </details>
 
