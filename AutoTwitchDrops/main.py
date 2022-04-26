@@ -2,7 +2,7 @@
 main.py file. run main.py.
 """
 from time import sleep
-
+from random import choices
 import settings
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -17,7 +17,7 @@ def get_streamers() -> list:
     """
     with open(settings.STREAMER_TEXT_FILE, "r", encoding="utf-8") as file:
         streamers = [streamer.rstrip() for streamer in file]
-    return streamers
+    return choices(streamers, k=settings.STREAMER_COUNT)
 
 
 def main():

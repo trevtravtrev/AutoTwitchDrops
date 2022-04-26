@@ -7,6 +7,9 @@
 STREAMER_TEXT_FILE:
 file name for text file that contains just newline separated streamer names (must be in same directory as code)
 
+STREAMER_COUNT:
+number of random streamers to pick from the text file
+
 BROWSER_REFRESH_TIME:
 time in seconds to refresh all streams (starts streams that were started since last refresh)
 
@@ -19,5 +22,6 @@ CHROME_PROFILE_PATH:
 """
 
 STREAMER_TEXT_FILE: str = "streamers.txt"
+STREAMER_COUNT: int = 5
 BROWSER_REFRESH_TIME: int = 30 * 60
 CHROME_PROFILE_PATH: str = r"your_profile_path"
