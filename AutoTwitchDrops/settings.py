@@ -7,7 +7,7 @@
 STREAMER_TEXT_FILE:
 file name for text file that contains just newline separated streamer names (must be in same directory as code)
 
-STREAM_COUNT:
+STREAMER_COUNT:
 number of random streamers to pick from the text file
 
 BROWSER_REFRESH_TIME:
