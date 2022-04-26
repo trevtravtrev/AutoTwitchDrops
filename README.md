@@ -22,6 +22,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![Black][black-shield]][black-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -93,6 +94,11 @@
 
 * [Python](https://www.python.org/)
 * [Selenium](https://selenium-python.readthedocs.io/)
+* [Poetry](https://python-poetry.org/)
+* [mypy](https://github.com/python/mypy)
+* [Pylint](https://pylint.pycqa.org/en/latest/)
+* [isort](https://pypi.org/project/isort/)
+* [black](https://github.com/psf/black)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -116,7 +122,12 @@ If not already installed, install the following.
     ```sh
    git clone https://github.com/trevtravtrev/AutoTwitchDrops.git
     ```
-2. Install requirements.txt
+2. Install dependencies  
+   poetry method (recommended):
+    ```sh
+   poetry install
+    ```
+   requirements.txt method:
     ```sh
    pip3 install -r requirements.txt
     ```
@@ -124,11 +135,11 @@ If not already installed, install the following.
     ```sh
    pip install -r requirements.txt
     ```
-3. Enter settings in `config.py`
+3. Enter settings in `settings.py`
    ```py
-    streamer_text_file =
-    browser_refresh_time =
-    chrome_profile_path =
+    STREAMER_TEXT_FILE =
+    BROWSER_REFRESH_TIME =
+    CHROME_PROFILE_PATH =
    ```
 4. Enter twitch streamers in `streamers.txt` (Recommended: 20 maximum)
     ```
@@ -156,7 +167,7 @@ If not already installed, install the following.
 <!-- USAGE EXAMPLES -->
 ## Usage
 1) Automate "watching" an unlimited amount of streamers to obtain any drops you desire
-2) Browser tabs auto refresh (configurable) to fire up streams that have started since last refresh
+2) Browser tabs auto refresh (settings) to fire up streams that have started since last refresh
 3) Mute browser sound
 4) Continue on with your day
 5) Collect your twitch drops
@@ -167,8 +178,8 @@ If not already installed, install the following.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Supporting more browsers (firefox, edge, ie, brave)
-- [ ] Providing pre-built drops streamer (streamers.txt) files for popular games
+- [ ] Support more browsers (firefox, edge, ie, brave)
+- [ ] Provide pre-built drops streamer (streamers.txt) files for popular games
 - [ ] Community requested features
 
 See the [open issues](https://github.com/trevtravtrev/AutoTwitchDrops/issues) for a full list of proposed features (and known issues).
@@ -233,6 +244,8 @@ Unlimited software engineering subscription. Reinventing scaling your business. 
 * All code written in house
 * Pause or cancel anytime
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -250,3 +263,5 @@ Unlimited software engineering subscription. Reinventing scaling your business. 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/trevorallenwhite
 [product-screenshot]: images/screenshot.png
+[black-shield]: https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge&logo=appveyor
+[black-url]: https://github.com/psf/black
