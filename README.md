@@ -233,15 +233,15 @@ Reinventing the way to fulfill all of your coding needs with an unlimited code, 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge&logo=appveyor
 [contributors-url]: https://github.com/trevtravtrev/AutoTwitchDrops/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge&logo=appveyor
 [forks-url]: https://github.com/trevtravtrev/AutoTwitchDrops/network/members
-[stars-shield]: https://img.shields.io/github/stars/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge&logo=appveyor
 [stars-url]: https://github.com/trevtravtrev/AutoTwitchDrops/stargazers
-[issues-shield]: https://img.shields.io/github/issues/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge&logo=appveyor
 [issues-url]: https://github.com/trevtravtrev/AutoTwitchDrops/issues
-[license-shield]: https://img.shields.io/github/license/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge&logo=appveyor
 [license-url]: https://github.com/trevtravtrev/AutoTwitchDrops/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/trevorallenwhite
