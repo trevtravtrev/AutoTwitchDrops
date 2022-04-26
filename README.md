@@ -73,7 +73,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#PoketDev-(coming-soon)">PoketDev (coming soon)</a></li>
+    <li><a href="#PoketDev">PoketDev (Unlimited Software Engineering Subscription)</a></li>
   </ol>
 </details>
 
@@ -220,13 +220,17 @@ Project Link: [https://github.com/trevtravtrev/AutoTwitchDrops](https://github.c
 
 
 
-<!-- WEBSITE -->
-## PoketDev (coming soon)
-[PoketDev.com](https://www.PoketDev.com)  
-Reinventing the way to fulfill all of your coding needs with an unlimited code, no contract, hassle-free, monthly subscription with no hidden fees or surprises.
+<!-- POKET DEV -->
+## Poket Dev
+[PoketDev.com](https://www.PoketDev.com) (coming soon)  
+PoketDev@gmail.com  
+Unlimited software engineering subscription. Reinventing scaling your business. No contract, no hassle, flat fee, monthly subscription with no hidden fees or surprises.
 * Unlimited code request queue
 * Unlimited revisions
 * Unlimited team member access
+* Eloquently written code
+* Carefully documented
+* All code written in house
 * Pause or cancel anytime
 
 
