@@ -242,7 +242,7 @@ Reinventing the way to fulfill all of your coding needs with an unlimited code, 
 [issues-shield]: https://img.shields.io/github/issues/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge
 [issues-url]: https://github.com/trevtravtrev/AutoTwitchDrops/issues
 [license-shield]: https://img.shields.io/github/license/trevtravtrev/AutoTwitchDrops.svg?style=for-the-badge
-[license-url]: https://github.com/trevtravtrev/AutoTwitchDrops/blob/master/LICENSE.txt
+[license-url]: https://github.com/trevtravtrev/AutoTwitchDrops/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/trevorallenwhite
 [product-screenshot]: images/screenshot.png
